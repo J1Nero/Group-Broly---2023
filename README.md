@@ -1,6 +1,6 @@
-# Project Title
+# Group Broly
 
-Simple overview of use/purpose.
+Group of Agile Project Students that iterates and dedicates.
 
 ## Description
 
