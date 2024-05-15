@@ -1,6 +1,6 @@
-# Group Broly
+# Group-Broly
 
-Group of Agile Project Students that iterates and dedicates.
+Group of Agile Project Students that iterates and dedicates. #life
 
 ## Description
 
