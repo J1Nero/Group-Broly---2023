@@ -37,9 +37,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Gabriel Nero Ilustre
+* Gabriel Nero Ilustre
 [@Ilustre](https://twitter.com/dompizzie)
-Blake Tyler Setford
+* Blake Tyler Setford
 [@Setford](https://twitter.com/dompizzie)
 
 ## Version History
