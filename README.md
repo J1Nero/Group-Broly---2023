@@ -41,6 +41,8 @@ Contributors names and contact info
 [@Ilustre](https://twitter.com/dompizzie)
 * Blake Tyler Setford
 [@Setford](https://twitter.com/dompizzie)
+* Zeki Ray Young
+[@Young](https://twitter.com/dompizzie)
 
 ## Version History
 
