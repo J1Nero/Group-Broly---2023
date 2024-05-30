@@ -16,7 +16,7 @@ All members contact info is listed below.
 Stakeholder register <br />
 Meeting report 1 <br />
 Persona's (x3) <br />
-Persona review's (x3) <br />
+Persona reviews (x3) <br />
 Progress report 1
 
 ## Iteration 2 contents
