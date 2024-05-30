@@ -1,4 +1,4 @@
-# Group-Broly
+# Team-Broly
 
 This is the official GitHub page of Team Broly 2024. <br />
 We have created this GitHub page with the purpose of storing our website files alongside the agile project documentation. 
