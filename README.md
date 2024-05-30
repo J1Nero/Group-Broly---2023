@@ -1,42 +1,9 @@
 # Group-Broly
 
-Group of Agile Project Students that iterates and dedicates. #life
+This is the official GitHub page of Team Broly 2024. 
+We have created this GitHub page with the purpose of storing our website files alongside the agile project documentation. 
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
+All members contact info is listed below.
 * Gabriel Nero Ilustre
 [@Ilustre](https://twitter.com/dompizzie)
 * Blake Tyler Setford
@@ -44,14 +11,23 @@ Contributors names and contact info
 * Zeki Ray Young
 [@Young](https://twitter.com/dompizzie)
 
-## Version History
+## Iteration 1 contents
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Stakeholder register
+Meeting report 1
+Persona's (x3)
+Persona review's (x3)
+Progress report 1
 
-## License
+## Iteration 2 contents
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Resource needs
+Gantt chart
+Meeting report 2
+Progress report 2
+
+## Iteration 3 contents
+Risk register
+Meeting report 3
+Progress report 3
+User acceptance testing
