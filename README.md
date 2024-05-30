@@ -1,7 +1,6 @@
 # Group-Broly
 
-This is the official GitHub page of Team Broly 2024. 
-We have created this GitHub page with the purpose of storing our website files alongside the agile project documentation. 
+This is the official GitHub page of Team Broly 2024. We have created this GitHub page with the purpose of storing our website files alongside the agile project documentation. 
 
 All members contact info is listed below.
 * Gabriel Nero Ilustre
