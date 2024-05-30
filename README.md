@@ -13,21 +13,22 @@ All members contact info is listed below.
 
 ## Iteration 1 contents
 
-* Stakeholder register
-* Meeting report 1
-* Persona's (x3)
-* Persona review's (x3)
-* Progress report 1
+Stakeholder register <br />
+Meeting report 1 <br />
+Persona's (x3) <br />
+Persona review's (x3) <br />
+Progress report 1
 
 ## Iteration 2 contents
 
-Resource needs
-* Gantt chart
-* Meeting report 2
-* Progress report 2
+Resource needs <br />
+Gantt chart <br />
+Meeting report 2 <br />
+Progress report 2 
 
 ## Iteration 3 contents
-* Risk register
-* Meeting report 3
-* Progress report 3
-* User acceptance testing
+
+Risk register <br />
+Meeting report 3 <br />
+Progress report 3 <br />
+User acceptance testing 
